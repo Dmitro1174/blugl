@@ -1,0 +1,17 @@
+;
+;	BLoody UGly Language
+;
+sub boo (	; procedure (function) definition start
+	
+	if (x eq 2) (
+		true
+	) else (
+		false
+	)
+	
+	let msg "Boobs !"
+	
+	print msg
+	
+) ; procedure end
+
